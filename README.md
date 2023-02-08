@@ -1,2 +1,2 @@
 # bot
-easy robot
+easy
